@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "image_comparator", "image_comparator.csproj", "{1B6EE9E2-C9FC-4056-8731-70C1CEF9C4DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B6EE9E2-C9FC-4056-8731-70C1CEF9C4DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6EE9E2-C9FC-4056-8731-70C1CEF9C4DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6EE9E2-C9FC-4056-8731-70C1CEF9C4DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6EE9E2-C9FC-4056-8731-70C1CEF9C4DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFACA981-6C53-45D8-87A7-7D0F718BB07C}
+	EndGlobalSection
+EndGlobal
